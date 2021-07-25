@@ -1,1 +1,2 @@
 # Labyrinth-Wayfarer
+Game demo
